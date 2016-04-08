@@ -1,0 +1,284 @@
+
+*{
+
+  margin: 0;
+  padding: 0;
+}
+
+.logout
+  {
+    float: right;
+    position: relative;
+    bottom: 244px;
+  }
+
+  .table-right {
+    display: block;
+    float: left;
+}
+.tablecontentlef {
+    float: left;
+    display: block;
+        width: 61%
+}
+
+.wrapper-center {
+    width: 590px;
+    margin: 0 auto;
+    background: #DCDCDC;
+    padding: 1em;
+}
+.wrapper-center input.btn.btn-bordered.btn-primary.pull-right {
+     margin: 13px auto;
+    display: block;
+    padding: 8px 142px;
+    float: none !important;
+
+}
+.wrapper-center form {
+    margin: 0 auto;
+    width: 346px;
+}
+#username {
+    border: none;
+    padding: 4px;
+    width: 310px;
+    height: 34px;
+}
+.field select {
+    padding: 7px 15px;
+    background: #fff;
+    border: none;
+        margin-left: 1em;
+}
+
+.wrapper-center i.fa.fa-user {
+    padding: 10px;
+    background: #fff;
+    top: 0px;
+    position: relative;
+}
+.top-hrading {
+    font-size: 20px;
+
+}
+input#calcula {
+    height: 35px;
+    width: 199px;
+    }
+
+    .allcp-form .prepend-icon .field-icon {
+    top: 10px;}
+
+
+    .panel {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    padding: 2em;
+    /* margin-right: 0; */
+}
+div#contact {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    max-width: 100% !important;
+}
+label.field-icon {
+    width: 1px;
+    padding: 10;
+    height: inherit;
+    position: absolute;
+}
+.header-wrapex a.logout {
+    bottom: 0;
+    /* top: 0; */
+}
+.header-wrapex {
+    background: #DEDBDB;
+/*     padding: 0.5em; */
+}
+
+body label.field-icon {
+    display: table-row;
+    position: relative;
+}
+table#example tr td {
+/*     width: 445px !important; */
+    /* background: red; */
+/*     display: list-item; */
+    
+}
+table#example tr {
+    display: block;
+}
+body table#example td.commentx {
+    /* background: red; */
+    width: 387px !important;
+}
+
+h2.top-hrading {
+    display: inline;
+    width: 50%;
+}
+.navbar-inverse {
+   z-index: 9 !important;
+}
+
+
+
+.btn-group {
+    float: right;
+    position: relative;
+    top: 1em;
+    right: 4em;
+} 
+.sidenav {
+   
+    bottom: 18px !important;
+
+}
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #7f828f !important;
+    background-color: transparent;
+}
+
+body.sb-l-m #sidebar_left.nano {
+    position: absolute;
+    width: 230px;
+    /* top: 61px; */
+}
+.open > .dropdown-menu {
+
+    position: relative;
+    margin-top: 41px;
+    margin-left: 111px !important;
+    left: 41px;
+}
+.droper {
+    float: right;
+}
+.dropdown {
+    position: relative;
+}
+
+/*
+ul.droper li:hover ul {
+    display: block;
+    float: left;
+    position: relative;
+    right: 0em;
+    margin-top: 0em;
+    left: 46px;
+    overflow: hidden;
+} */
+#main {
+    position: relative;
+    min-height: 0 !important;
+   
+}
+
+.chute.chute-center {
+    height: 0 !important;
+Padding:0 !important;
+}
+.table-bordered {
+    border: 1px solid #e5eaee;
+    z-index: 0;
+    position: relative;
+    /* width: 74%; */
+    float: right;
+}
+#form-contact1 .fa.fa-user {
+    background: #DAD7D7;
+    /* height: 30px; */
+    padding: 7px;
+}
+#form-contact1 .panel-title {
+    padding-left: 6px;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: left;
+}
+#form-contact1 .fa.fa-align-justify {
+    background: #E6E3E3;
+    padding: 8px;
+    position: relative;
+    bottom: 31px;
+}
+#form-contact1 textarea#comment {
+    background: #E6E3E3;
+    border: none;
+}
+#form-contact1 input {
+    background: #E6E3E3;
+    border: none;
+}
+
+#form-contact1 input#calcula {
+    width: initial !important;
+}
+
+span.panel-title {
+    FLOAT: left;
+    }
+    .table-holder h2 {
+    display: none;
+}
+.table-holder .table {
+    width: 77% ! important;
+    max-width: 100%;
+    margin-bottom: 0;
+}
+.tablecontentlef td {
+    width: 105px !important;
+    /* background: red; */
+    display: list-item;
+}
+.tableheader td {
+    width: 129px !important;
+    /* background: red; */
+    display: list-item;
+}
+.hiddenx{
+
+
+}
+
+.table-right {
+    width: 37%;
+    height: 0;
+}
+textarea#comment {
+    width: 80%;
+    height: 50px;
+}
+.table-holder .submit {
+    background: #2A2F43;
+    border: none;
+    color: #fff;
+    padding: 5px;
+    float: right;
+}
+td.text-world {
+    width: 100%;
+}
+.pagination-wrapper {
+    width: 20%;
+    float: right;
+    z-index: 1;
+    
+    position: relative;
+    right: 0;
+    bottom: -20px !important;
+    clear: both !important;
+    padding: 0 2em;
+}
+.pagination-wrapper a {
+    background: #2A2F43;
+    padding: 8px;
+    color: #fff;
+    float: right;
+    margin-left: 2px;
+
+}
